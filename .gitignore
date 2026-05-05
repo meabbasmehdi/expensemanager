@@ -10,3 +10,4 @@ local.properties
 *.keystore
 *.jks
 keys/
+app/release/
